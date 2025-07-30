@@ -7,7 +7,7 @@
 This project is a data-driven case study developed as part of a technical interview assessment for a position in Data Science. The objective is to analyze invoice discrepancies and **identify shipment shortages** reported by Amazon for its suppliers — with the ultimate goal of **recovering unpaid amounts** and proving that all ordered units were shipped. The analysis reflects real-world tasks performed by supplier-side data teams working with Amazon.
 
 
-📄 Full analysis available in [Amazon shipping Reconciliation](images/amazon_logo)
+📄 Full analysis available in [Amazon shipping Reconciliation](images/amazon_logo.webp)
 
 ---
 
