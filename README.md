@@ -1,6 +1,6 @@
 # 📦 Amazon Shortage Dispute Analysis – Case Study 
 
-<img src="images/amazon_logo.webp" alt="banner" width="720" height="400">
+<img src="images/amazon_logo.webp" alt="banner" width="520" height="300">
 
 
 ## 🧠 Overview
