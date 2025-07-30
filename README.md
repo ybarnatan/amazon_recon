@@ -5,7 +5,7 @@
 
 ## 🧠 Overview
 
-This project is a data-driven case study developed as part of a technical interview assessment for a position in Data Science. The objective is to analyze invoice discrepancies and **identify shipment shortages** reported by Amazon for its suppliers — with the ultimate goal of **recovering unpaid amounts** and proving that all ordered units were shipped. The analysis reflects real-world tasks performed by supplier-side data teams working with Amazon.
+The objective is to analyze invoice discrepancies and **identify shipment shortages** reported by Amazon for its suppliers — with the ultimate goal of **recovering unpaid amounts** and proving that all ordered units were shipped. The analysis reflects real-world tasks performed by supplier-side data teams working with Amazon.
 
 In addition to exploring and visualizing the data, a key focus is placed on producing a strategic, actionable final deliverable that supports:
 
@@ -46,7 +46,7 @@ In addition to exploring and visualizing the data, a key focus is placed on prod
   
 ## 📚 Data Source
 
-Data has been provided by the technical hiring team; it is available in this repository in the `data` folder.
+This project is a data-driven case study developed as part of a technical interview assessment for a position in Data Science. Data has been provided by the technical hiring team; it is available in this repository in the `data` folder.
 
 ---
 
