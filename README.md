@@ -13,8 +13,6 @@ In addition to exploring and visualizing the data, a key focus is placed on prod
 
 + Invoice audit prioritization
 
-+ Financial recovery
-
 + Stakeholder decision-making
 
 📄 Full analysis available in [Amazon Shipping Reconciliation](https://github.com/ybarnatan/amazon_recon/blob/main/Amazon_Shipping_Reconciliation.ipynb)
