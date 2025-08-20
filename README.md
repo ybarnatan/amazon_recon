@@ -46,7 +46,7 @@ In addition to exploring and visualizing the data, a key focus is placed on prod
   
 ## 📚 Data Source
 
-This project is a data-driven case study developed as part of a technical interview assessment for a position in Data Science. Data has been provided by the technical hiring team; it is available in this repository in the `data` folder.
+This project is a data-driven case study, data has been provided by a 3rd party; it is available in this repository in the `data` folder.
 
 ---
 
